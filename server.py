@@ -27,4 +27,4 @@ while True:
     finally:
         client.close()
 
-s.close()e
+s.close()
